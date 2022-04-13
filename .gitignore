@@ -129,3 +129,4 @@ dmypy.json
 .pyre/
  env/
  bad_data/
+ data.zip
